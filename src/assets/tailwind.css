@@ -1,9 +1,0 @@
-/* tailwind.css */
-@import 'swiper/swiper-bundle.css'; /* Swiper CSS */
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-.swiper {
-  z-index: 1; /* Swiper'ı ön planda tutmak için */
-}
